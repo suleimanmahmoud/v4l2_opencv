@@ -594,7 +594,7 @@ long_options[] = {
 
 int main(int argc, char **argv)
 {
-        dev_name = "/dev/video0";
+        dev_name = "/dev/video1";
 
         for (;;) {
                 int idx;

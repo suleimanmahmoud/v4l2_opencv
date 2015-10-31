@@ -161,7 +161,7 @@ int main(int argc, char **argv)
         int                             width = 1280;
         int                             height = 720;
 
-        dev_name = "/dev/video0";
+        dev_name = "/dev/video1";
         images_count = 10;
 
         for (;;) {
