@@ -6,7 +6,7 @@
 *.o
 *.a
 
-./video_capture
-./picture_grabber
-./opencv_v4l2
+video_capture
+picture_grabber
+opencv_v4l2
 */bin/*
